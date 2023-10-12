@@ -3,15 +3,15 @@ Written in Unity/C#
 
 ## Video Demos
 
-Black Hole
+### Black Hole
 
 <img src='BlackHole.gif' title='Video Demo' width='50%' alt='Video Walkthrough' />
 
-Fire Strike
+### Fire Strike
 
 <img src='FireStrike.gif' title='Video Demo' width='50%' alt='Video Walkthrough' />
 
-Mine Dropper
+### Mine Dropper
 
 <img src='MineDropper.gif' title='Video Demo' width='50%' alt='Video Walkthrough' />
 
